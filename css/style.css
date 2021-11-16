@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Code+Latin&family=Shippori+Antique+B1&display=swap');
+/* font-family: 'M PLUS Code Latin', sans-serif; */
+/* font-family: 'Shippori Antique B1', sans-serif; */
+
+p{
+    font-family: 'Shippori Antique B1', sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    color: coral;
+    line-height: 1.8;
+
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'M PLUS Code Latin', sans-serif;
+    font-style: normal;
+    color: coral;
+    line-height: 1.4;
+
+}
+h2{
+    font-size: 32px;
+    color: coral;
+    line-height: 1.2;
+    
+}
+
+h3{
+    font-size: 16px;
+    color: coral;
+    line-height: 1.4;
+
+}
+
+h4{
+    font-size: 16px;
+    color:cornflowerblue;
+    line-height: 1.4;
+
+}
+
+a{
+    font-family: 'Shippori Antique B1', sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    color: darkblue;
+    line-height: 1.4;
+
+}
+
+button{
+    font-family: 'Shippori Antique B1', sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    color: white;
+    line-height: 42px;
+    background-color: coral;
+}
+
+
