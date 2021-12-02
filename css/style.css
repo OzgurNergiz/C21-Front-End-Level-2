@@ -2,6 +2,20 @@
 /* font-family: 'M PLUS Code Latin', sans-serif; */
 /* font-family: 'Shippori Antique B1', sans-serif; */
 
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-family: 'M PLUS Code Latin', sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    color: #5a5150;
+    line-height: 1.8;
+}
 p{
     font-family: 'Shippori Antique B1', sans-serif;
     font-style: normal;
